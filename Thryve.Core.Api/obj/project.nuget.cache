@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9OKVKRqv7c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merah\\source\\repos\\Thryve\\Thryve.Core.Api\\Thryve.Core.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merah\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.17\\microsoft.dotnet.ilcompiler.8.0.17.nupkg.sha512",
+    "C:\\Users\\merah\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.17\\microsoft.net.illink.tasks.8.0.17.nupkg.sha512",
+    "C:\\Users\\merah\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.17\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
