@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36221.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thryve.Core.Api", "Thryve.Core.Api\Thryve.Core.Api.csproj", "{C704DA8B-D881-41D6-A8BF-84830B255B8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{29EF3B29-FB24-4743-ABF6-9790D354C94B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thryve.Main.Api", "Thryve.Main.Api\Thryve.Main.Api.csproj", "{6BF0D47E-454B-4FC1-8DBE-BE9AB9334864}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C704DA8B-D881-41D6-A8BF-84830B255B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C704DA8B-D881-41D6-A8BF-84830B255B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C704DA8B-D881-41D6-A8BF-84830B255B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EF3B29-FB24-4743-ABF6-9790D354C94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EF3B29-FB24-4743-ABF6-9790D354C94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EF3B29-FB24-4743-ABF6-9790D354C94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EF3B29-FB24-4743-ABF6-9790D354C94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF0D47E-454B-4FC1-8DBE-BE9AB9334864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF0D47E-454B-4FC1-8DBE-BE9AB9334864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF0D47E-454B-4FC1-8DBE-BE9AB9334864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF0D47E-454B-4FC1-8DBE-BE9AB9334864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

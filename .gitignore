@@ -1,0 +1,12 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Ignore bin and obj folders in any directory
+bin/
+obj/
+/bin/
+/obj/
+*/bin/
+*/obj/
+**/bin/
+**/obj/

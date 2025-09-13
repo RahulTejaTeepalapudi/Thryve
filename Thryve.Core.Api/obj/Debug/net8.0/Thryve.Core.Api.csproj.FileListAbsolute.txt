@@ -26,3 +26,11 @@ C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\obj\Debug\net8.0\refint\Thryv
 C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\obj\Debug\net8.0\Thryve.Core.Api.pdb
 C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\obj\Debug\net8.0\Thryve.Core.Api.genruntimeconfig.cache
 C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\obj\Debug\net8.0\ref\Thryve.Core.Api.dll
+C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\obj\Debug\net8.0\Thryve.Core.Api.csproj.AssemblyReference.cache
+C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\obj\Debug\net8.0\Thryve.Core.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\obj\Debug\net8.0\Thryve.Core.Api.sourcelink.json
+C:\Users\merah\source\repos\Thryve\Thryve.Core.Api\obj\Debug\net8.0\Thryve.C.DCB6F306.Up2Date
